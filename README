@@ -1,5 +1,7 @@
 This is the first version of H2S Scraper, an assumption of prior knowledge of python and sql is made, which is not okay...
-A documenation will be written soon, a future update plan can be expected in the coming days
+A documenation will be written soon, a future update plan can be expected in the coming days.
+
+Dont tell my boss I am here
 
 Dependency:
   import requests
