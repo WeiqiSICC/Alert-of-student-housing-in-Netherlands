@@ -1,0 +1,18 @@
+This is the first version of H2S Scraper, an assumption of prior knowledge of python and sql is made, which is not okay...
+
+Dependency:
+  import requests
+  import lxml
+  from bs4 import BeautifulSoup
+  from fake_useragent import UserAgent
+  from datetime import datetime
+  import datetime
+  import requests
+  from bs4 import BeautifulSoup
+  from datetime import datetime
+  import pandas as pd
+  from sqlalchemy import create_engine
+  from bs4 import BeautifulSoup
+  from getpass import getpass
+  import lxml
+  import logging
