@@ -19,3 +19,7 @@ Dependency:
   from getpass import getpass
   import lxml
   import logging
+
+Note for deployment!
+
+Simply download the newest version, and follow the instructions in the notebook! Please not that the most recent version does not support MacOS notification.
