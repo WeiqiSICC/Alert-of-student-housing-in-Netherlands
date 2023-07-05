@@ -23,3 +23,5 @@ Dependency:
 Note for deployment!
 
 Simply download the newest version, and follow the instructions in the notebook! Please not that the most recent version does not support MacOS notification.
+
+The newest version is 07052023, download the .ipynb file, open it via your IDE, such as anaconad's juoyter notebook. I would recommand VS code, but this is rather personal.
